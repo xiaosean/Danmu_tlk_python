@@ -21,6 +21,10 @@
 
 ## [FB:台科大電腦研習社](https://www.facebook.com/ntustcc/)
 
+# 目前結果
+- 某些網站可用 (不包含 Google Slides / Microsoft Slides)
+- pdf 可用(請使用瀏覽器打開pdf的方式！)
+
 
 # 需求
 - python 3.5 up
