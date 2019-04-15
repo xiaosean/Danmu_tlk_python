@@ -53,9 +53,10 @@
 
 
 # 各種條件測試
-- [ ] 使用 Selenium 讓 js 的腳本可正常生成 - Successed
+- [X] 使用 Selenium 讓 js 的腳本可正常生成 - Successed
     https://pypi.org/project/selenium/
-- [ ] 使用 Chrome 開啟 pdf 使用 - Successed
+- [X] 使用 Chrome 開啟 pdf 使用 - Successed
+- [X] 在 Slideshare 上使用 - Successed
 - [ ] 使用 Requests.get - tlk.io - Failed
     結果如下：https://pastebin.com/02EyXYG3
 - [ ] 在 Google slides 上使用 - Failed
