@@ -39,15 +39,27 @@
 
 # 使用方法 - 整理中（有些 Code 還是寫死的）
 
-使用 jupyter notebook 打開 tlk_danmu.ipynb
 
-找到下面兩行，換成你要的網址
-![](https://i.imgur.com/JUwje1J.png)
-
-然後一直 run 應該就行了。
-
-
-
+=> 使用 Pdf 版本
+> 使用 jupyter notebook 打開 tlk_danmu.ipynb
+>
+> 找到下面兩行，換成你要的網址
+> ![](https://i.imgur.com/JUwje1J.png)
+> 
+> 然後一直 run 應該就行了。
+> 
+=> 使用 iframe 版本(Google Slides)
+> 使用 jupyter notebook 打開 tlk_danmu-with-iframe.ipynb
+>
+> 首先打開 Google Slides
+>
+>
+>
+> 找到下面兩行，換成你要的網址
+> ![](https://i.imgur.com/JUwje1J.png)
+> 
+> 然後一直 run 應該就行了。
+> 
 
 
 
@@ -57,6 +69,7 @@
     https://pypi.org/project/selenium/
 - [X] 使用 Chrome 開啟 pdf 使用 - Successed
 - [X] 在 Slideshare 上使用 - Successed
+- [X] 使用 Google slides 的 iframe  - Failed
 - [ ] 使用 Requests.get - tlk.io - Failed
     結果如下：https://pastebin.com/02EyXYG3
 - [ ] 在 Google slides 上使用 - Failed
@@ -64,6 +77,7 @@
 
 
 # 未來方向
+- [ ] 使用 Google slides 的 iframe 目前不能全螢幕
 - [ ] 朝向 javascript 去做爬蟲，現在開兩個 Selenium driver 真的很奇怪呢
 - [ ] 想在 Google/Microsoft slides 使用 
 - [ ] 可能丟在 Line chatbot 串接，剛好和社團課程銜接。
@@ -72,3 +86,4 @@
 
 # Thanks
 Borrow heavily from [jquery.danmu.js](https://github.com/chiruom/jquery.danmu.js)
+https://templated.co/industrious
